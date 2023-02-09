@@ -1,0 +1,61 @@
+.AICa{
+    float:left;
+    margin:20px;
+}
+
+.clsCheck{
+    
+    width:150px; 
+
+}
+.classfont{
+    font-size:10px;
+    text-align: center;
+    font-weight:bolder;
+}
+
+.class_subject{
+    position: relative;
+
+    font-weight: bold;
+    width: 100%;
+    margin-right: 20px;
+    padding: 10px;
+
+}
+
+
+.classModal{
+    width: 100%;
+    overflow: scroll;
+}
+
+.chosen_class{
+    position:absolute;
+    left: 10px;
+}
+
+.ai_assign_btn{
+    background-color: #e93333;
+    color: white;
+    border: transparent;
+    border-radius: 4px 4px 4px 4px;
+    font-weight: bold;
+}
+
+
+.transports:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
+
+.spin_show{
+    display: none;
+}
+
+.list_styles{
+    font-weight: bold;
+    text-align: left;
+    float: left;
+    
+}
